@@ -2,7 +2,7 @@
 
 [Unwatermark](https://unwatermark.ai/) is a cutting-edge tool designed to seamlessly remove watermarks from images and videos, offering a fast and user-friendly solution for content creators and professionals alike.
 
-## Features at a Glance
+## Features
 - Clean up any image or video
 - Handle multiple files at once
 - Keep high quality after removal
